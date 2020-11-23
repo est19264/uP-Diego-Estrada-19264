@@ -1,0 +1,18 @@
+4F //LIT 
+AA //ADDI 
+50 //IN 
+70 //ST 
+00
+61 //LD 
+11
+62 //LD 
+32 //CMPM 
+22
+CA //JMP 
+01
+@A01
+F0
+9F //JNZ 
+F0
+C0 //JMP 
+
